@@ -14,7 +14,7 @@ This repository contains the code used to generate the results for the Stanford 
 `data` countains sample images from the BSDS300 and MNIST datasets
 
 ### Usage 
-Activate your python environment and execute the following command to run the tests used to create the figure in the report. 
+Activate your python environment and execute the following command to run the tests used to create the figures in the report and print out PSNRs values. 
 
 ``` sh
 python test.py
